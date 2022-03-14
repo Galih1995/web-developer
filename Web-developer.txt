@@ -2,3 +2,5 @@ Web-developer
 1.belajar frontend 
 2.belajar backend
 3. Belajar framework
+4. Terjun menjadi web developer fullstuck
+5. Megembangkan kemampuan
